@@ -21,22 +21,6 @@ This repository contains comprehensive lab exercises covering core Java programm
 - Develop problem-solving skills through hands-on coding
 - Learn industry best practices and design patterns
 
-## 📂 Repository Structure
-
-```
-CS2053-java/
-├── LabSession7.java          # Multithreading & Synchronization
-├── LabSession10/             # TCP Client-Server Chat
-│   ├── LabSession10.java
-│   ├── ChatServer.java
-│   └── ChatClient.java
-├── LabSession11.java         # Lambda Expressions & Collections
-├── LabSession12/             # GUI Application with Swing
-│   ├── LabSession12.java
-│   └── Student.java
-└── README.md
-```
-
 ## 📘 Lab Sessions Overview
 
 | Session | Topic | Key Concepts | Status |
