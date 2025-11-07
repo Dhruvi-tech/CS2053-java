@@ -42,7 +42,7 @@ class CurrentAccount extends Account {
     }
 }
 
-public class LabSession4 {
+public class Session04_Polymorphism_Abstract_Classes {
     public static void main(String[] args) {
         Account acc1 = new SavingsAccount("Alice", 5000, 5);
         Account acc2 = new CurrentAccount("Bob", 10000, 2000);

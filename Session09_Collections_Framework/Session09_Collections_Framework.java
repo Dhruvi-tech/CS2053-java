@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class LabSession9 {
+public class Session09_Collections_Framework {
     public static void main(String[] args) {
        
         ArrayList<Integer> marksList = new ArrayList<>();

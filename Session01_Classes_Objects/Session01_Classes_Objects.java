@@ -21,7 +21,7 @@ class Book {
     }
 }
 
-public class LabSession1 {
+public class Session01_Classes_Objects {
     public static void main(String[] args) {
         Book b1 = new Book();
         Book b2 = new Book("Java Programming", "James Gosling", 499.99);

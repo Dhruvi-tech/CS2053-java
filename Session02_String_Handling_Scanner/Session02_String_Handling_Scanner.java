@@ -17,7 +17,7 @@ class Employee {
     }
 }
 
-public class LabSession2 {
+public class Session02_String_Handling_Scanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

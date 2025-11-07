@@ -22,7 +22,7 @@ class CarLoan implements Loan {
     }
 }
 
-public class LabSession5 {
+public class Session05_Packages_Interfaces {
     public static void main(String[] args) {
         Loan loan1 = new HomeLoan();
         Loan loan2 = new CarLoan();

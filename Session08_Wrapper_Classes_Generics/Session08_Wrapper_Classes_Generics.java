@@ -18,7 +18,7 @@ class Box<T> {
 }
 
 // Public class with main method
-public class LabSession8 {
+public class Session08_Wrapper_Classes_Generics {
     public static void main(String[] args) {
         // Box for Integers (autoboxing: int -> Integer)
         Box<Integer> intBox = new Box<>();

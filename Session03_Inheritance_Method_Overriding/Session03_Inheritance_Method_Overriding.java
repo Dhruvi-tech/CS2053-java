@@ -40,7 +40,7 @@ class ElectricCar extends Car {
     }
 }
 
-public class LabSession3 {
+public class Session03_Inheritance_Method_Overriding {
     public static void main(String[] args) {
         Vehicle v = new Vehicle("Generic Vehicle");
         Car c = new Car("Toyota", 4);

@@ -21,7 +21,7 @@ class Product {
     }
 }
 
-public class LabSession11 {
+public class Session11_Lambda_Expressions {
     public static void main(String[] args) {
         List<Product> products = new ArrayList<>();
         products.add(new Product(1, "Laptop", 75000));

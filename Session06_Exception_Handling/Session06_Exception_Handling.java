@@ -22,7 +22,7 @@ class BankAccount {
     }
 }
 
-public class LabSession6 {
+public class Session06_Exception_Handling {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount("Alice", 5000);
 

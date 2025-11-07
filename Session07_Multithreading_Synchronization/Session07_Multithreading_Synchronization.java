@@ -30,7 +30,7 @@ class User implements Runnable {
     }
 }
 
-public class LabSession7 {
+public class Session07_Multithreading_Synchronization {
     public static void main(String[] args) {
         System.out.println("=== Office Print Queue Simulation ===\n");
 
